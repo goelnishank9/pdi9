@@ -1,0 +1,21 @@
+2024-06-12 14:54:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "D_CUSTOMER" not found; SQL statement:
+SELECT * FROM D_CUSTOMER [42102-210]
+2024-06-12 14:54:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "D_CUSTOMER" not found; SQL statement:
+SELECT * FROM D_CUSTOMER [42102-210]
+2024-06-12 14:54:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "D_CUSTOMER" not found; SQL statement:
+SELECT * FROM D_CUSTOMER [42102-210]
+2024-06-12 14:54:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "D_CUSTOMER" not found; SQL statement:
+SELECT * FROM D_CUSTOMER [42102-210]
+2024-06-12 14:54:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "D_CUSTOMER" not found; SQL statement:
+SELECT 1 FROM D_CUSTOMER [42102-210]
+2024-06-12 22:53:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CHANGELOG" not found; SQL statement:
+SELECT * FROM CHANGELOG [42102-210]
+2024-06-12 22:53:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CHANGELOG" not found; SQL statement:
+SELECT * FROM CHANGELOG [42102-210]
